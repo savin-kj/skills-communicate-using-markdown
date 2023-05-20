@@ -4,4 +4,6 @@
 #### This is my fourth heading
 ##### This is my fifth heading
 ###### This is my sixth heading
+## Here is a pic of a cat for entertainment..
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
